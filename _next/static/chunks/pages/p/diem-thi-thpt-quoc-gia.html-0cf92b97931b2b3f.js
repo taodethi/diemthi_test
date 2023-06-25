@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[483],{2543:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/p/diem-thi-thpt-quoc-gia.html",function(){return u(9153)}])},9153:function(n,t,u){"use strict";u.r(t);var _=u(5893),i=u(8595);t.default=()=>(0,_.jsx)(i.Z,{})}},function(n){n.O(0,[251,595,774,888,179],function(){return n(n.s=2543)}),_N_E=n.O()}]);
